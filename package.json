@@ -4,6 +4,8 @@
     "description": "Theme",
     "version": "0.0.1",
     "publisher": "Triangle4 Studios",
+    "icon": "icon.ico",
+    "repository": { "type": "git", "url": "https://github.com/Triangle4/VSCodeThemePack", "--githubBranch":"main"},
     "engines": {
         "vscode": "^1.65.0"
     },
