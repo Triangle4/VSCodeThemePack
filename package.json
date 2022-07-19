@@ -1,0 +1,33 @@
+{
+    "name": "triangle4themes",
+    "displayName": "Triangle 4 Themes Pack",
+    "description": "Theme",
+    "version": "0.0.1",
+    "publisher": "Triangle4 Studios",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": 
+        [
+            {
+                "label": "Triangle4 - Dark Original",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Triangle4Dark.json"
+            },
+            {
+                "label": "Triangle4 - Dark Generic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Triangle4DarkGeneric.json"
+            },
+            {
+                "label": "Triangle4 - Dark And Vibrant",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Triangle4DarkVibrant.json"
+            }
+        ]
+    }
+}
